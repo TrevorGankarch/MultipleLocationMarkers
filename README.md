@@ -1,2 +1,2 @@
 # MultipleLocationMarkers
-Plot multiple markers
+Plot multiple markers using Google Maps API
